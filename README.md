@@ -4,7 +4,7 @@ I'll be using emojis/emotes for the examples and scripts as I have it set up tha
 You'll have to change the script to work on your machine.
 
 Here how it looks when I run app finder and seach for the images ( emotes in this case ).
-![](be37f584-9b8c-5f23-88d4-ffade5df19e0/3929a1dc-7a8f-4389-81c4-ae0a9abde444.png)
+![](https://github.com/neekotism/xfce4-image-picker/blob/main/emote-picker.png?raw=true)
 It's a very easy and convenient way to pick images and such without having to configure much.
 
 The way is work is simple. You create desktop ( application ) entries for each emoji in **/home/user/.local/share/applications/** and it run an xclip script that copies the image to your clipboard when you open the desktop entry.

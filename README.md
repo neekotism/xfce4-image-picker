@@ -8,7 +8,7 @@ This is how it looks when I run app finder and seach for the images ( emotes in 
 
 It's a very easy and convenient way to pick images and such without having to configure much.
 
-The way it works is simple. You create desktop ( application ) entries for each emoji in **/home/user/.local/share/applications/** and it run an xclip script that copies the image to your clipboard when you open the desktop entry.
+The way it works is simple. You create desktop ( application ) entries for each emoji in **/home/user/.local/share/applications/** and it runs an xclip script that copies the image to your clipboard when you open the desktop entry.
 
 This is the config I have for the desktop entries.
 ```

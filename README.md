@@ -5,6 +5,7 @@ You'll have to change the script to work on your machine.
 
 Here how it looks when I run app finder and seach for the images ( emotes in this case ).
 ![](https://github.com/neekotism/xfce4-image-picker/blob/main/emote-picker.png?raw=true)
+
 It's a very easy and convenient way to pick images and such without having to configure much.
 
 The way is work is simple. You create desktop ( application ) entries for each emoji in **/home/user/.local/share/applications/** and it run an xclip script that copies the image to your clipboard when you open the desktop entry.

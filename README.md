@@ -3,7 +3,7 @@
 I'll be using emojis/emotes for the examples and scripts as I have it set up that way.
 You'll have to change the script to work on your machine.
 
-Here how it looks when I run app finder and seach for the images ( emotes in this case ).
+This is how it looks when I run app finder and seach for the images ( emotes in this case ).
 ![](https://github.com/neekotism/xfce4-image-picker/blob/main/emote-picker.png?raw=true)
 
 It's a very easy and convenient way to pick images and such without having to configure much.
